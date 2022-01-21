@@ -16,6 +16,7 @@ I'm a Web Developer, also a Player.
 
 #### Game
 
+[![](https://img.shields.io/badge/-PlayStation%205-006ecf?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/pciapcib)
 [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/pciapcib)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 
