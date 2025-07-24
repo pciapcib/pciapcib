@@ -4,9 +4,10 @@ I'm a Web Developer, also a Player.
 
 #### Stack
 
-[![](https://img.shields.io/badge/-React.js-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-React-087ea4?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-Node.js-417e38?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
 <!--
 #### Platform&Tools
@@ -19,18 +20,3 @@ I'm a Web Developer, also a Player.
 [![](https://img.shields.io/badge/-PlayStation%205-006ecf?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/pciapcib)
 [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/pciapcib)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-
-<!--
-**pciapcib/pciapcib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
