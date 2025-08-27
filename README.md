@@ -1,6 +1,6 @@
 ### Hello
 
-I'm a Web Developer, also a Player.
+I'm a Web Developer, also a Game Player.
 
 #### Stack
 
